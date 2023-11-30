@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TfDeeplearning.iml" filepath="$PROJECT_DIR$/.idea/TfDeeplearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TF_Learn_DL.iml" filepath="$PROJECT_DIR$/.idea/TF_Learn_DL.iml" />
     </modules>
   </component>
 </project>
