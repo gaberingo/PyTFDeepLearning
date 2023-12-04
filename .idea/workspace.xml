@@ -5,13 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362127fd-b6a8-44e8-a96d-a06e8e022fc7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CodeFun/wallhavenDownloder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_0_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_0_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_0_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_10_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_10_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_10_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_11_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_11_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_11_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_12_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_12_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_12_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_13_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_13_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_13_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_14_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_14_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_14_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_15_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_15_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_15_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_16_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_16_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_16_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_17_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_17_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_17_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_18_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_18_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_18_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_19_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_19_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_19_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_2_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_3_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_4_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_4_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_4_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_5_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_5_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_5_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_6_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_6_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_6_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_7_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_7_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_8_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_8_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_8_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_9_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_9_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated_img/generated_img_9_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fashgan_model/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fashgan_model/fashgan_model.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/fashgan_model/fashgan_model.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/generatormodel.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook/CNN_look.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorboard_logs/tb_callback_dir/train/events.out.tfevents.1701562894.R1.19400.0.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorboard_logs/tb_callback_dir/validation/events.out.tfevents.1701562951.R1.19400.1.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/CNN_TFLearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/CNN_TFLearn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/GAN_TFLearn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/GAN_TFLearn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +138,16 @@
       <workItem from="1701437861030" duration="5132000" />
       <workItem from="1701519080759" duration="589000" />
       <workItem from="1701519687529" duration="5683000" />
-      <workItem from="1701527658185" duration="971000" />
+      <workItem from="1701527658185" duration="1009000" />
+      <workItem from="1701557439289" duration="3937000" />
+      <workItem from="1701568847159" duration="5388000" />
+      <workItem from="1701580187259" duration="550000" />
+      <workItem from="1701592724764" duration="10504000" />
+      <workItem from="1701606312286" duration="1824000" />
+      <workItem from="1701610153979" duration="36000" />
+      <workItem from="1701686385359" duration="744000" />
+      <workItem from="1701697270593" duration="166000" />
+      <workItem from="1701702607379" duration="1932000" />
     </task>
     <servers />
   </component>
